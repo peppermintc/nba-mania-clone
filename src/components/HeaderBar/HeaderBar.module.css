@@ -1,0 +1,12 @@
+.container {
+  background-color: brown;
+  min-height: 55px;
+  line-height: 55px;
+}
+
+.inner {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
